@@ -32,7 +32,9 @@ body {
 }
 
 
-
+#div-form p {
+    margin: 10px 0;
+}
 #div-form label {
     font-family: "Dm sans";
     color: white;
@@ -47,6 +49,8 @@ body {
 
     width: 60%;
     height: 30px;
+
+    text-align: center;
 }
 #div-form input:focus {
     box-shadow: 0 0 3px 1px black;
