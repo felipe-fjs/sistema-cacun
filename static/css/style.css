@@ -26,7 +26,7 @@ body {
     color: white;
 }
 #div-form h1 {
-    font-family: "Poppins";
+    /* font-family: "Poppins"; */
     font-weight: normal;
     font-size: 4em;
     
@@ -35,7 +35,7 @@ body {
 }
 #div-form a#ref-senha {
     color: white;
-    font-family: "Poppins";
+    /* font-family: "Poppins"; */
 }
 
 #div-form p {
@@ -45,7 +45,7 @@ body {
    
 }
 #div-form label {
-    font-family: "Dm sans";
+    /* font-family: "Dm sans"; */
     color: white;
     font-weight: lighter;
     font-size: 20px;
@@ -79,7 +79,7 @@ body {
     margin: 10px 0;
 
     color: white;
-    font-family: "Poppins";
+    /* font-family: "Poppins"; */
     font-weight: bold;
 }
 #div-form button:focus {
